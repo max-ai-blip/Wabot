@@ -1,0 +1,9 @@
+{
+  "botName": "MiBot",
+  "emoji": "🤖",
+  "prefix": "#",
+  "owners": ["521XXXXXXXXXX"],
+  "mode": "public",
+  "banned": [],
+  "banner": null
+}
